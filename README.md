@@ -1,1 +1,1 @@
-http://teachermangt.infinityfreeapp.com/home.php
+http://teachermangt.infinityfreeapp.com
